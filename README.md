@@ -12,7 +12,7 @@ Frontend-разработчик с **многолетним коммерческ
 * **Фреймворки и библиотеки:** Vue 3 (Composition API, Pinia, Vue Router), React (Hooks, TanStack Query / Router), TypeScript, JavaScript (ES6+).
 * **Верстка и UI:** HTML5, CSS3/SCSS, Tailwind CSS, BEM, адаптивная и кроссбраузерная верстка, CSS Grid/Flexbox, HTML-верстка промо-материалов, UI-библиотеки (Vuetify, Element Plus, Ant Design, Material UI).
 * **Бизнес-логика и архитектура:** Feature-Sliced Design (FSD), проектирование слоев данных, управление состоянием, валидация форм, оптимизация рендеринга данных.
-* **Работа с API и интеграции:** REST API, GraphQL, WebSockets, Cloud Firestore, Axios, настройка интерсепторов, обработка ошибок, авторизация (JWT, OAuth2).
+* **Работа с API и интеграции:** REST API, WebSockets, Cloud Firestore, Axios, настройка интерсепторов, обработка ошибок, авторизация (JWT, OAuth2).
 * **Инфраструктура, Backend и DevOps:** Docker, Docker Compose, базовый Node.js, Git (GitLab CI/CD), Vite, Webpack, ESLint, Prettier, деплой на сервер, базовое администрирование Nginx.
 
 ---
