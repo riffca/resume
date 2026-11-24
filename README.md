@@ -1,4 +1,4 @@
-**Senior Frontend-разработчик (Vue / React)**  
+**Frontend-разработчик**  
 Санкт-Петербург | Готов к удаленной работе / гибриду  
 Telegram: @riffca  
 
